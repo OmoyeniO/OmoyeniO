@@ -4,9 +4,9 @@ My name is Omoyeni and I’m currently learning everything haha 😆...
 
 But really though.. I am truly fascinated about the things that people are doing out here and how intelligent people are..
 
+&nbsp;  
 
-
-***I am an Accountant turned Data Scientist and I am interested in everything Data, AI/ ML and Finance*** 
+Fun fact: ***I am an Accountant turned Data Scientist and I am interested in everything Data, AI/ ML and Finance*** 
 
 
 
