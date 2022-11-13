@@ -6,7 +6,7 @@ But really though.. I am truly fascinated about the things that people are doing
 
 
 
-*** I am an Accountant turned Data Scientist and I am interested in everything Data, AI/ ML and Finance 
+***I am an Accountant turned Data Scientist and I am interested in everything Data, AI/ ML and Finance*** 
 
 
 
