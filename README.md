@@ -6,11 +6,11 @@ But really though.. I am truly fascinated about the things that people are doing
 
 
 
-***I am an Accountant turned Data Scientist and I am interested in everything Data, AI/ ML and Finance 
+*** I am an Accountant turned Data Scientist and I am interested in everything Data, AI/ ML and Finance 
 
 
 
-Visit my website to learn more about me : [Omoyeni](https://omoyeniogundipe.com/)  and 
+Visit my website to learn more about me : [Omoyeni](https://omoyeniogundipe.com/)  
 
 Connect with me on:
 
