@@ -14,17 +14,18 @@ Visit my website to learn more about me : [Omoyeni](https://omoyeniogundipe.com/
 
 Connect with me on:
 
-<!---
+
 <p align="left"> <a href="https://www.github.com/OmoyeniO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omoyeni-ogundipe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://omoyeni-ogundipe.medium.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://twitter.com/yeni_dipe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/yeni.dipe/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
---->
 
 
 
+<!---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/OmoyeniO)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/yeni.dipe/) 
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg' alt='twitter' height='30'>](https://twitter.com/yeni_dipe) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/omoyeni-ogundipe)
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg' alt='medium' height='30'>](https://omoyeni-ogundipe.medium.com/)
+--->
 
 
 
