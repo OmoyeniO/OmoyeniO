@@ -33,6 +33,12 @@ But really though.. I am truly fascinated about the things that people are doing
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OmoyeniO&show_icons=true)  
 
+
+
+<a href="http://www.github.com/OmoyeniO"><img src="https://activity-graph.herokuapp.com/graph?username=OmoyeniO&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
 <!---
 OmoyeniO/OmoyeniO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
