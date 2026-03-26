@@ -8,7 +8,7 @@ My name is Yeni.
 
 
 
-#### Visit my website to learn more about me : [Omoyeni](https://omoyeniogundipe.com/)  
+#### [omoyeniogundipe.com](https://omoyeniogundipe.com/)  
 
 #### Connect with me on:
 
